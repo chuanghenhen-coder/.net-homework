@@ -12,3 +12,4 @@ C:\Users\USER\Documents\GitHub\.net-homework\Cloudclipboard\Agent\obj\Debug\net8
 C:\Users\USER\Documents\GitHub\.net-homework\Cloudclipboard\Agent\obj\Debug\net8.0\Agent.pdb
 C:\Users\USER\Documents\GitHub\.net-homework\Cloudclipboard\Agent\obj\Debug\net8.0\Agent.genruntimeconfig.cache
 C:\Users\USER\Documents\GitHub\.net-homework\Cloudclipboard\Agent\obj\Debug\net8.0\ref\Agent.dll
+C:\Users\USER\Documents\GitHub\.net-homework\Cloudclipboard\Agent\obj\Debug\net8.0\Agent.sourcelink.json

@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CBD645E-2FD9-4754-90CB-D1D1FF2AB03D}|Controller\\Controller.csproj|c:\\users\\user\\documents\\github\\.net-homework\\cloudclipboard\\controller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3CBD645E-2FD9-4754-90CB-D1D1FF2AB03D}|Controller\\Controller.csproj|solutionrelative:controller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B87AA01F-9005-1EA2-E815-60C1272544BD}|Agent\\Agent.csproj|c:\\users\\user\\documents\\github\\.net-homework\\cloudclipboard\\agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AA01F-9005-1EA2-E815-60C1272544BD}|Agent\\Agent.csproj|solutionrelative:agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0287D808-06A3-44F4-8D12-B6B085968451}|Agent\\Agent.csproj|c:\\users\\user\\documents\\github\\.net-homework\\cloudclipboard\\agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0287D808-06A3-44F4-8D12-B6B085968451}|Agent\\Agent.csproj|solutionrelative:agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B87AA01F-9005-1EA2-E815-60C1272544BD}|Agent\\Agent.csproj|c:\\users\\user\\documents\\github\\.net-homework\\cloudclipboard\\agent\\systeminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AA01F-9005-1EA2-E815-60C1272544BD}|Agent\\Agent.csproj|solutionrelative:agent\\systeminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AA01F-9005-1EA2-E815-60C1272544BD}|Agent\\Agent.csproj|c:\\users\\user\\documents\\github\\.net-homework\\cloudclipboard\\agent\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AA01F-9005-1EA2-E815-60C1272544BD}|Agent\\Agent.csproj|solutionrelative:agent\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4BD14F-8B82-7C93-5EFB-AC55D1926607}|Controller\\Controller.csproj|c:\\users\\user\\documents\\github\\.net-homework\\cloudclipboard\\controller\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4BD14F-8B82-7C93-5EFB-AC55D1926607}|Controller\\Controller.csproj|solutionrelative:controller\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4BD14F-8B82-7C93-5EFB-AC55D1926607}|Controller\\Controller.csproj|c:\\users\\user\\documents\\github\\.net-homework\\cloudclipboard\\controller\\controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC4BD14F-8B82-7C93-5EFB-AC55D1926607}|Controller\\Controller.csproj|solutionrelative:controller\\controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4BD14F-8B82-7C93-5EFB-AC55D1926607}|Controller\\Controller.csproj|c:\\users\\user\\documents\\github\\.net-homework\\cloudclipboard\\controller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC4BD14F-8B82-7C93-5EFB-AC55D1926607}|Controller\\Controller.csproj|solutionrelative:controller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "SystemInfo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Agent\\SystemInfo.cs",
+              "RelativeDocumentMoniker": "Agent\\SystemInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Agent\\SystemInfo.cs",
+              "RelativeToolTip": "Agent\\SystemInfo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T08:15:22.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Controller\\Command.cs",
+              "RelativeDocumentMoniker": "Controller\\Command.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Controller\\Command.cs",
+              "RelativeToolTip": "Controller\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T08:09:56.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Controller",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Controller\\Controller.csproj",
+              "RelativeDocumentMoniker": "Controller\\Controller.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Controller\\Controller.csproj",
+              "RelativeToolTip": "Controller\\Controller.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-04T08:09:15.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Agent\\Command.cs",
+              "RelativeDocumentMoniker": "Agent\\Command.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Agent\\Command.cs",
+              "RelativeToolTip": "Agent\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T08:07:20.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Controller\\Form1.cs",
               "RelativeDocumentMoniker": "Controller\\Form1.cs",
@@ -34,13 +102,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Agent\\Program.cs",
               "RelativeDocumentMoniker": "Agent\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Agent\\Program.cs",
               "RelativeToolTip": "Agent\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T07:47:54.406Z",
               "EditorCaption": ""
