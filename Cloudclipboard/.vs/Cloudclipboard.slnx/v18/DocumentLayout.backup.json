@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBD645E-2FD9-4754-90CB-D1D1FF2AB03D}|Controller\\Controller.csproj|c:\\users\\user\\documents\\github\\.net-homework\\cloudclipboard\\controller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CBD645E-2FD9-4754-90CB-D1D1FF2AB03D}|Controller\\Controller.csproj|solutionrelative:controller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0287D808-06A3-44F4-8D12-B6B085968451}|Agent\\Agent.csproj|c:\\users\\user\\documents\\github\\.net-homework\\cloudclipboard\\agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0287D808-06A3-44F4-8D12-B6B085968451}|Agent\\Agent.csproj|solutionrelative:agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Controller\\Form1.cs",
+              "RelativeDocumentMoniker": "Controller\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Controller\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Controller\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:51:52.808Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Agent\\Program.cs",
+              "RelativeDocumentMoniker": "Agent\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\.net-homework\\Cloudclipboard\\Agent\\Program.cs",
+              "RelativeToolTip": "Agent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:47:54.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
