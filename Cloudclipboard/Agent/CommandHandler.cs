@@ -1,18 +1,18 @@
 using System;
 using System.Text.Json;
-
+// 解析Agent的指令
 public class CommandHandler
-{
+{      //接收Controller傳來的JSON字串
     public void Execute(string json)
-    {
+    {  //將字串轉Command物件
         var cmd = JsonSerializer.Deserialize<Command>(json);
-
+//轉失敗就結束
         if (cmd == null)
         {
             Console.WriteLine("指令解析失敗");
             return;
         }
-
+//根據指令執行功能
         switch (cmd.Type)
         {
             case "clipboard":
