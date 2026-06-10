@@ -1,10 +1,20 @@
 using System;
 using System.Text.Json;
+using System.Net.Sockets;
+using System.Text;
+
 // 解析Agent的指令
 public class CommandHandler
-{      //接收Controller傳來的JSON字串
-    public void Execute(string json)
-    {  //將字串轉Command物件
+{    
+    private NetworkStream stream;
+    public CommandHandler(NetworkStream stream)
+    {
+        this.stream = stream;
+    }
+  //接收Controller傳來的JSON字串
+    public async void Execute(string json)
+    {
+      //將字串轉Command物件
         var cmd = JsonSerializer.Deserialize<Command>(json);
 //轉失敗就結束
         if (cmd == null)
