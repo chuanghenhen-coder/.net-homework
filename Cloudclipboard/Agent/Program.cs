@@ -25,7 +25,7 @@ async Task HandleClientAsync(TcpClient client)
         string json = Encoding.UTF8.GetString(buffer, 0, bytesRead);
         Console.WriteLine($"[{DateTime.Now:HH:mm:ss}] 收到指令：{json}");
 
-        var handler = new CommandHandler();
+        var handler = new CommandHandler(stream);
         handler.Execute(json);
       
     }
