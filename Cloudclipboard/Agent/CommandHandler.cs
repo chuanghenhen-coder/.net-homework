@@ -27,7 +27,13 @@ public class CommandHandler
         switch (cmd.Type)
         {
             case "clipboard":
-                Console.WriteLine($"收到剪貼簿內容：{cmd.Data}");
+                // 真正把文字寫入 Windows 系統剪貼簿
+                Thread t = new Thread(() => System.Windows.Forms.Clipboard.SetText(cmd.Data));
+                t.SetApartmentState(ApartmentState.STA); // 剪貼簿必須在 STA 模式下執行
+                t.Start();
+                t.Join(); // 確保寫入完成才繼續往下走
+
+                Console.WriteLine($"[{DateTime.Now:HH:mm:ss}] 收到剪貼簿內容並已寫入系統：{cmd.Data}");
                 break;
 
             case "sysinfo":
