@@ -81,7 +81,7 @@
             btnSysInfo.TabIndex = 4;
             btnSysInfo.Text = "查詢系統狀態";
             btnSysInfo.UseVisualStyleBackColor = true;
-            btnSysInfo.Click+=btnSendClipboard_Click;
+            btnSysInfo.Click+=btnSysInfo_Click;
             // 
             // txtOutput
             // 
