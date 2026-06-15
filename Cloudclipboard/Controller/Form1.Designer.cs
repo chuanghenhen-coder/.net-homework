@@ -71,6 +71,7 @@
             btnSendClipboard.TabIndex = 3;
             btnSendClipboard.Text = "傳送";
             btnSendClipboard.UseVisualStyleBackColor = true;
+            btnSendClipboard.Click+=btnSendClipboard_Click;
             // 
             // btnSysInfo
             // 
@@ -80,6 +81,7 @@
             btnSysInfo.TabIndex = 4;
             btnSysInfo.Text = "查詢系統狀態";
             btnSysInfo.UseVisualStyleBackColor = true;
+            btnSysInfo.Click+=btnSendClipboard_Click;
             // 
             // txtOutput
             // 
